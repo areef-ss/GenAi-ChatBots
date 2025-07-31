@@ -5,3 +5,4 @@ langchain_community
 ipykernel
 langchain_core
 streamlit
+langchain-groq
