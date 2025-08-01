@@ -6,3 +6,4 @@ ipykernel
 langchain_core
 streamlit
 langchain-groq
+langchain-chroma
